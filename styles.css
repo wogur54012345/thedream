@@ -1,0 +1,10 @@
+/* styles.css */
+  .container {
+    max-width: 1200px;  /* 최대 너비를 1200px로 설정 */
+    margin: 0 auto;     /* 중앙 정렬 */
+  }
+  
+  img {
+    max-width: 100%;  /* 부모 컨테이너에 맞게 크기 조정 */
+    height: auto;
+  }
